@@ -16,4 +16,5 @@ int main(void)
 //哈哈，来自dev
 //dev2 77777
 //呵呵来自dev2
+//qwq 来自linux devqwq
 //ovo 来袭linux dev2
